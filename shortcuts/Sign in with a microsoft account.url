@@ -3,3 +3,6 @@ Prop3=19,0
 [InternetShortcut]
 IDList=
 URL=ms-settings:accounts
+IconIndex=160
+HotKey=0
+IconFile=C:\Windows\System32\SHELL32.dll
